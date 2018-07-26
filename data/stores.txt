@@ -1,0 +1,54 @@
+Store Name,Store Location,Street Number,Street Name,Suburb,State,Postcode
+"Gibson, Gulgowski and Price",Eagle Square,35259,Elian Mountains,North Malvina,KS,66029
+"Kassulke, McGlynn and Kuhn",Pine Place,8041,Mertie Well,West Kileyhaven,TX,91377
+Moen-Block,Pine Place,547,Matt Ports,New Myra,NV,18862
+Hickle Inc,Summer Crossing,341,Konopelski Stravenue,New Marilie,WY,66600
+Heathcote Group,Paradise Village,5561,Dibbert Meadows,Rueckerborough,MI,74253-6780
+"Dickens, Barton and Miller",Willow Gardens,6811,Harvey Ranch,Abernathystad,AL,42594-1114
+Baumbach and Sons,University Pointe,8799,Orn Pass,North Kylie,IA,95112
+Schuster LLC,Park Oaks,399,Crona Mission,New Bertramstad,VA,82208-2678
+Marks-Torp,University Pointe,734,Sauer Forest,West Pierre,MS,54939-7124
+"Auer, Koss and Rempel",University Oaks,54682,Ziemann Curve,Estellaland,GA,77205-9101
+Kuvalis and Sons,Summer Crossing,1183,Adams Divide,Ilenestad,RI,74577-7899
+Wiegand-Armstrong,Pine Crossing,21782,Eulah Mission,West Joyceview,OR,73658
+"Ferry, Hoppe and Torphy",Eagle Pointe,67829,Wiza Club,Port Otistown,MN,22930
+"Runte, Boyer and Armstrong",University Pointe,2214,Nathen Drives,Adaview,TX,57861-2343
+Dietrich and Sons,Royal Crossing,13096,Lupe Fields,West Sadie,KS,88970
+Morar-Dach,Autumn Estates,55659,Beatty Harbors,West Giovanniside,WV,10242
+Tremblay Group,Summer Estates,9939,Willow Mission,Greenholtberg,ND,75547
+"Beatty, Greenholt and Conn",Eagle Acres,6054,Morar Orchard,North Vanessa,ID,53609
+Effertz Inc,University Square,50029,Lavina Shore,Tedburgh,WI,79951-2180
+Gleason Group,Summer Heights,586,Olin Forks,East Dianaland,FL,17487-5359
+"Lang, Wintheiser and Brakus",University Acres,5559,Jast Spring,Stoltenbergstad,KS,92929-6056
+Moore LLC,Summer Acres,47918,Jaquan Points,Dahliaborough,OH,52095-7809
+"Oberbrunner, Graham and Botsford",Summer Acres,8126,Friedrich Village,East Eliezer,OR,78235
+Satterfield Inc,Eagle Estates,82238,Rossie Inlet,East Dovieborough,CT,31755-6814
+Senger-Watsica,Summer Square,69347,Orrin Gardens,Lake Guyton,KY,12472
+Anderson-Turcotte,Royal Square,8906,Ryan Rapids,Langoshmouth,CA,11885-1144
+Watsica LLC,Summer Place,27430,Rau Lake,New Josieview,CA,94226-4166
+"Runte, Stokes and Schroeder",Willow Oaks,14404,Mallie Stravenue,Bednarmouth,SC,41558-7339
+"Quitzon, Sipes and Welch",Summer Estates,33609,Amparo Tunnel,Sophiafort,MT,43538-4009
+"Gerhold, Thompson and Roberts",Royal Estates,81611,Reynolds Loop,South Norberto,TN,87117-6311
+Toy Group,Autumn Heights,278,Altenwerth Mountains,Todside,MT,74510
+"MacGyver, Anderson and Jones",University Court,77236,Marcella View,Tremaynebury,GA,34555-4614
+"Schoen, Mann and Ledner",University Acres,985,Ondricka Estates,Novashire,DE,34852-8264
+Marks-Torp,University Pointe,59763,Tyson Avenue,Rohanville,NM,21442-0551
+Reinger-Beier,Autumn Village,56100,Howell Pines,Adamshaven,WV,22439-8115
+Bruen and Sons,Paradise Court,51175,Nathaniel Unions,South Giovani,UT,70838
+"Luettgen, Erdman and Keebler",Willow Heights,92437,Moore Crescent,Ovaland,DE,80088-5404
+"Schaden, Bergnaum and Friesen",Willow Creek,4072,Malika Place,Port Dagmar,ND,92079-0269
+Casper and Sons,University Heights,292,Hintz Village,New Johnathonburgh,KS,66827-6142
+"Auer, Koss and Rempel",University Oaks,5641,Crawford Curve,Cassinstad,NM,17417
+Beier-Funk,Summer Gardens,394,Okuneva Forks,New Anibalfurt,SC,65352-5388
+Kihn LLC,Royal Gardens,37688,Abbott Islands,Riverfort,NM,45736-2073
+Bradtke LLC,Autumn Estates,69902,Kendra Valleys,Gregshire,WV,73545-9739
+Feest Inc,Eagle Acres,62235,Witting Prairie,Derekchester,NC,21200-2091
+Cormier-Nitzsche,Willow Village,66814,Merl Brook,Koelpinmouth,IL,51247-6276
+"Kassulke, Considine and Gusikowski",Autumn Creek,3899,Stella Lock,South Laurel,NY,17103-4032
+Ratke-Hilll,Autumn Acres,60559,Crona Wall,Bartellview,VA,53921-2984
+Stoltenberg Inc,Summer Square,63368,Fadel Greens,West Lanceton,VT,14778
+"Schaden, Bergnaum and Friesen",Willow Creek,715,Rath Stravenue,Millerland,NM,62842
+"Von, Kling and Bernier",Pine Creek,67528,Marquis Hill,Abbottmouth,LA,82519-9398
+Altenwerth and Sons,Autumn Court,548,Rowe Avenue,Colinborough,CO,56654
+Upton-Orn,Autumn Estates,123,Kemmer Lodge,Stellaberg,CO,13010-8688
+"Legros, Walker and Jast",Summer Oaks,110,Jabari Ramp,North Santina,NY,14258-9901
