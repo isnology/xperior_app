@@ -82,3 +82,5 @@ I will use github for source control
 I will use JWT's as authentication not because it is more secure but because it answers the brief which is to make 1 
 call on the authentication server and use the result for calls (plural - meaning multiple) on the app server.
 
+I will avoid polymorphic columns in favour of join files for customers + addresses and stores + addresses
+
