@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180728131012) do
+ActiveRecord::Schema.define(version: 20180728162607) do
 
   create_table "addresses", force: :cascade do |t|
     t.string "street_number"
@@ -113,6 +113,13 @@ ActiveRecord::Schema.define(version: 20180728131012) do
     t.string "suburb"
     t.string "state"
     t.string "postcode"
+  end
+
+  create_table "v1_errors", force: :cascade do |t|
+    t.string "step"
+    t.string "file"
+    t.string "reason"
+    t.string "data"
   end
 
 end
