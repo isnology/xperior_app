@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180726150801) do
+ActiveRecord::Schema.define(version: 20180728131012) do
 
   create_table "addresses", force: :cascade do |t|
     t.string "street_number"
@@ -81,6 +81,38 @@ ActiveRecord::Schema.define(version: 20180726150801) do
     t.string "location"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "v1_csv_customers", force: :cascade do |t|
+    t.string "first_name"
+    t.string "last_name"
+    t.string "email"
+    t.string "street_number"
+    t.string "street_name"
+    t.string "suburb"
+    t.string "state"
+    t.string "postcode"
+  end
+
+  create_table "v1_csv_purchases", force: :cascade do |t|
+    t.string "date"
+    t.string "store_name"
+    t.string "store_location"
+    t.string "customer_email"
+    t.string "product_name"
+    t.string "sku"
+    t.string "quantity"
+    t.string "item_price"
+  end
+
+  create_table "v1_csv_stores", force: :cascade do |t|
+    t.string "store_name"
+    t.string "store_location"
+    t.string "street_number"
+    t.string "street_name"
+    t.string "suburb"
+    t.string "state"
+    t.string "postcode"
   end
 
 end

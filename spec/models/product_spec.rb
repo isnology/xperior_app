@@ -1,5 +1,8 @@
 require 'rails_helper'
 
 RSpec.describe Product, type: :model do
-  pending "add some examples to (or delete) #{__FILE__}"
+  it "should have many skus" do
+    t = Product.reflect_on_association(:skus)
+    expect(t.macro).to eq(:has_many)
+  end
 end

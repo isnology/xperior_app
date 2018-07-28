@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe Api::V1::ImportCutomersController, type: :controller do
+RSpec.describe Api::V1::DataImportsController, type: :controller do
 
   describe "GET #create" do
     it "returns http success" do
